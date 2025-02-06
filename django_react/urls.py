@@ -4,5 +4,5 @@ from django.urls import path
 
 urlpatterns = [
     path("admin/", admin.site.urls),
-    path("", TemplateView.as_view(template_name="front-end/index.html")),
+    path("", TemplateView.as_view(template_name="index.html")),
 ]
