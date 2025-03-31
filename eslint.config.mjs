@@ -1,3 +1,3 @@
-import { dkshs } from "@dkshs/eslint-config";
+import { ncontiero } from "@ncontiero/eslint-config";
 
-export default dkshs({ ignores: ["templates/**/*.html"] });
+export default ncontiero({ ignores: ["templates/**/*.html"] });
