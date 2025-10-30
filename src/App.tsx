@@ -10,7 +10,10 @@ export function App() {
       <button
         type="button"
         onClick={() => setCount(count + 1)}
-        className="w-20 rounded-md border-2 border-transparent bg-zinc-900 py-2 duration-200 hover:border-white/40 focus-visible:border-white/60 focus-visible:outline-none active:bg-zinc-800"
+        className={`
+          w-20 rounded-md border-2 border-transparent bg-zinc-900 py-2 duration-200 hover:border-white/40
+          focus-visible:border-white/60 focus-visible:outline-none active:bg-zinc-800
+        `}
       >
         {count}
       </button>
