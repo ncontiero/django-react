@@ -9,7 +9,7 @@ A project integrating Django and React.
 - [Django](https://www.djangoproject.com/)
 - [Rspack](https://rspack.dev/)
 - [React](https://react.dev/)
-- [TailwindCSS V3](https://v3.tailwindcss.com/)
+- [TailwindCSS](https://tailwindcss.com/)
 
 ## Installation and Running the Project
 
